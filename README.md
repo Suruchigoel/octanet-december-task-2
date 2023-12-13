@@ -6,7 +6,6 @@ Task Management: Add, delete, and mark tasks as completed.
 Local Storage: Store tasks locally to retain data between sessions.
 Intuitive Interface: User-friendly design for easy task organization.
 Installation
-Clone the repository: git clone https://github.com/yourusername/todo-list.git
 Open index.html in your preferred web browser.
 Usage
 Click on the input field to add tasks.
